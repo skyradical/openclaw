@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for openclaw-sky1 on 2026-03-19T17:36:30Z
+# fly.toml app configuration file generated for openclaw-sky2 on 2026-03-19T18:19:30Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'openclaw-sky1'
-primary_region = 'sin'
+app = 'openclaw-sky2'
+primary_region = 'ams'
 
 [build]
 
