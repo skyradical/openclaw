@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for openclaw-sky2 on 2026-03-19T18:19:30Z
+# fly.toml app configuration file generated for openclaw-vyuo3q on 2026-03-19T19:08:09Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'openclaw-sky2'
+app = 'openclaw-vyuo3q'
 primary_region = 'ams'
 
 [build]
@@ -20,4 +20,4 @@ primary_region = 'ams'
   memory = '1gb'
   cpu_kind = 'shared'
   cpus = 1
-  memory_mb = 256
+  memory_mb = 2048
